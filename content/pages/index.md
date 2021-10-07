@@ -53,7 +53,8 @@ sections:
       label: lorem-ipsum
     title: Another Title...
     subtitle: This Is Subtitle
-    text: Hello
+    text: |
+      casdasdas Hello
     actions:
       - label: Stackbit
         url: 'https://www.stackbit.com'
