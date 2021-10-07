@@ -1,5 +1,5 @@
 ---
-title: Example Page
+title: This is my page.
 layout: PageLayout
 sections:
   - type: ContactSection
