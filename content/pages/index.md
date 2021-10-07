@@ -51,7 +51,7 @@ sections:
     badge:
       elementId: ''
       label: lorem-ipsum
-    title: Another Title...
+    title: Not just another title
     subtitle: This Is Subtitle
     text: |
       casdasdas Hello
