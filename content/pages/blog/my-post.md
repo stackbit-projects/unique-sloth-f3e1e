@@ -6,7 +6,7 @@ excerpt: >-
   posts.
 thumbImage:
   type: ImageBlock
-  url: /images/post-1.jpeg
+  url: /images/desmond-eagle.jpg
   altText: Post thumbnail image
 topSections: []
 bottomSections: []
