@@ -1,5 +1,5 @@
 ---
-title: Post Title
+title: My Post
 date: '2021-10-07'
 excerpt: >-
   This is the excerpt of your blog post visible in the post feed or featured
