@@ -61,6 +61,19 @@ sections:
       Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
       inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+  - type: FeaturedPeopleSection
+    variant: variant-c
+    colors: colors-a
+    width: full
+    textAlign: center
+    title: Our Team
+    topGap: small
+    bottomGap: large
+    people:
+      - content/data/team/dianne-ameter.json
+      - content/data/team/desmond-eagle.json
+      - content/data/team/hilary-ouse.json
+      - content/data/team/hugh-saturation.json
   - type: CtaSection
     variant: variant-a
     colors: colors-h
@@ -78,19 +91,6 @@ sections:
         url: '#'
         label: Get Started
         style: primary
-  - type: FeaturedPeopleSection
-    variant: variant-c
-    colors: colors-a
-    width: full
-    textAlign: center
-    title: Our Team
-    topGap: small
-    bottomGap: large
-    people:
-      - content/data/team/dianne-ameter.json
-      - content/data/team/desmond-eagle.json
-      - content/data/team/hilary-ouse.json
-      - content/data/team/hugh-saturation.json
   - type: FeaturedPostsSection
     variant: variant-a
     colors: colors-e
@@ -110,7 +110,7 @@ sections:
     textAlign: left
     badge:
       label: New Website
-    title: The quick, brown fox jumps over **a lazy dog**
+    title: 'The quick, brown fox jumps over **a lazy dog**'
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam, eaque ipsa quae. explicabo.
