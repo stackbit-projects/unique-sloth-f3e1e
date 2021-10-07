@@ -56,6 +56,7 @@ sections:
           type: ImageBlock
           url: /images/isabelle-parks.jpg
           altText: Isabelle Parks
+    contentWidth: large
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
