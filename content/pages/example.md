@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - type: ContactSection
     variant: variant-b
-    colors: colors-e
+    colors: colors-f
     width: wide
     height: short
     topGap: large
