@@ -5,7 +5,7 @@ sections:
   - type: ContactSection
     variant: variant-b
     colors: colors-f
-    width: wide
+    width: full
     height: short
     topGap: large
     bottomGap: none
