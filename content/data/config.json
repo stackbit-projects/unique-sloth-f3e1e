@@ -8,7 +8,7 @@
         "secondaryColors": "colors-a",
         "width": "wide",
         "title": "Starter",
-        "isTitleVisible": true,
+        "isTitleVisible": false,
         "logo": {
             "type": "ImageBlock",
             "url": "/images/logo.svg",
