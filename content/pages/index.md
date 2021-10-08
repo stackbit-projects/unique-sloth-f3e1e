@@ -9,7 +9,7 @@ sections:
     width: full
     height: tall
     bottomGap: none
-    topGap: none
+    topGap: large
     contentWidth: large
     contentAlignHoriz: center
     contentAlignVert: middle
