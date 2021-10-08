@@ -13,7 +13,7 @@ sections:
     contentWidth: large
     contentAlignHoriz: center
     contentAlignVert: middle
-    textAlign: left
+    textAlign: center
     badge:
       label: New Website
     title: This Is A Big Hero **Headline**
