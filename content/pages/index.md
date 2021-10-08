@@ -12,7 +12,7 @@ sections:
     topGap: large
     contentWidth: large
     contentAlignHoriz: center
-    contentAlignVert: top
+    contentAlignVert: bottom
     textAlign: center
     badge:
       label: New Website
