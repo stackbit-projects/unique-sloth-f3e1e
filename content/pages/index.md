@@ -37,6 +37,12 @@ sections:
       url: /images/dianne-ameter.jpg
       altText: Image alt text
       caption: Image caption
+    backgroundImage:
+      elementId: ''
+      altText: lorem-ipsum
+      caption: lorem-ipsum
+      opacity: 100
+      type: ImageBlock
   - elementId: ''
     colors: colors-a
     width: wide
