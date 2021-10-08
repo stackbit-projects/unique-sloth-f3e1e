@@ -11,7 +11,7 @@ sections:
     bottomGap: none
     topGap: large
     contentWidth: large
-    contentAlignHoriz: center
+    contentAlignHoriz: right
     contentAlignVert: bottom
     textAlign: left
     badge:
